@@ -7,7 +7,7 @@
  *
  *Return: Always always (success)
  *
- */
+*/
 
 int main(void)
 {
