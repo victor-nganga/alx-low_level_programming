@@ -4,6 +4,7 @@
  * main - Entry point. Causes an infinite loop and then avoids it.
  * Return: Always 0 (Success)
  */
+
 int main(void)
 {
 	int i;
@@ -12,12 +13,11 @@ int main(void)
 
 	i = 0;
 
-	/*
-	 * while (i < 10)
-	 * {
-	 *      putchar(i);
-	 * }
-	 */
+	/*while (i < 10)
+	 {
+	 	putchar(i);
+	 }*/
+
 	printf("Infinte loop avoided! \\o/\n");
 
 	return (0);
