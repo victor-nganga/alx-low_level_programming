@@ -2,7 +2,8 @@
 
 /**
  * puts_half -  prints half of a string, followed by a new line.
- * @n: the number of characters to be [rinted if the string has odd number of characters.
+ *
+ * @n: the number of characters to be printed
  */
 
 void puts_half(char *str)
