@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * puts_half -  prints half of a string, followed by a new line.
- *
- * @n: the number of characters to be printed
+ * puts_half - prints half of a string
+ * followed by a new line.
+ *@n: the number of characters to be printed
  */
 
 void puts_half(char *str)
